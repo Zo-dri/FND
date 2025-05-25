@@ -1,0 +1,52 @@
+#######################################
+# Syntax Coloring Map For ExampleLibrary
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FND	KEYWORD1
+FND_Display	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Segment	KEYWORD2
+SegmentNoDP	KEYWORD2
+Commons KEYWORD2
+On	KEYWORD2
+Off	KEYWORD2
+init	KEYWORD2
+test	KEYWORD2
+testNumbers	KEYWORD2
+testChars	KEYWORD2
+print	KEYWORD2
+write	KEYWORD2
+writeChar	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+com1	LITERAL1
+com2	LITERAL1
+com3	LITERAL1
+com4	LITERAL1
+com5	LITERAL1
+com6	LITERAL1
+a	LITERAL1
+b	LITERAL1
+c	LITERAL1
+d	LITERAL1
+e	LITERAL1
+f	LITERAL1
+g	LITERAL1
+dp	LITERAL1
+length	LITERAL1

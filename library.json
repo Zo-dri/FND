@@ -1,0 +1,18 @@
+{
+  "name": "FND",
+  "keywords": "Segment,Commons,Off,On, enable",
+  "description": "Library for multiplexing FND Displays.",
+  "authors": [
+    {
+      "name": "Adri Chowdhury",
+	  "url": "https://github.com/DarkCat26",
+      "maintainer": true
+    }
+  ],
+  "version": "1.5.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "export": {
+    "include": "libraries/FND"
+  }
+}
